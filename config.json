@@ -1,0 +1,12 @@
+{
+    "num_families": 3,
+    "num_sequences_per_family": 5,
+    "sequence_length": 1000,
+    "mutation_rate": 0.05,
+    "inversion_rate": 0.0,
+    "max_inversion_size": 10,
+    "insertion_rate": 0.03,
+    "max_insertion_size": 20,
+    "deletion_rate": 0.01,
+    "max_deletion_size": 20
+}
